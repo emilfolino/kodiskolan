@@ -34,6 +34,8 @@ Ett annat viktigt val är hur man ska spara projekt filerna. I db eller på disk
 
 [thimble](https://github.com/mozilla/thimble.mozilla.org) verkar ju vara trevlig. Går att testa [här](https://thimble.mozilla.org/en-US/).
 
+[bulma.io](https://bulma.io/) känns som ett trevligt ställe att börja med stylen. Och ser inte ut som bootstrap.
+
 
 ## Utbildningsmaterial
 
@@ -41,4 +43,4 @@ Miniräknare i matte
 
 Tidslinje i historia
 
-Baddie liknande spel där man ska fixa till ordning på steg för att komma fram, som mjölkpaketen.
+Baddie liknande spel där man ska fixa till ordning på steg för att komma fram, som mjölkpaketen. Kan återanvändas på flera klasstrin med olika svårighetsgrad.
