@@ -2,7 +2,7 @@
 
 Mina korta tanker.
 
-Först en samling enkla och snygga tips på hur man kan introducera programmering i skolan. PDF, enkla one-page sidor etc. Möjlighet för att signa upp i mail-lista för fler enkla och snygga tips. 
+Först en samling enkla och snygga tips på hur man kan introducera programmering i skolan. PDF, enkla one-page sidor etc. Möjlighet för att signa upp i mail-lista för fler enkla och snygga tips.
 
 Efter det en SaaS platform med möjlighet att koda direkt i webbläsaren med bra sätt att kunna visa upp projekt hemma/i skolan.
 
@@ -31,3 +31,14 @@ Annars är det mest listningar av elever/projekt som jag tycker görs lättast m
 Fritt att komma med förslag.
 
 Ett annat viktigt val är hur man ska spara projekt filerna. I db eller på disk?
+
+[thimble](https://github.com/mozilla/thimble.mozilla.org) verkar ju vara trevlig. Går att testa [här](https://thimble.mozilla.org/en-US/).
+
+
+## Utbildningsmaterial
+
+Miniräknare i matte
+
+Tidslinje i historia
+
+Baddie liknande spel där man ska fixa till ordning på steg för att komma fram, som mjölkpaketen.
